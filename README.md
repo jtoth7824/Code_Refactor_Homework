@@ -8,6 +8,9 @@ This project demonstrates taking a webpage that only utilized div tags and conve
 
 ## Screenshot
 
+<p align="center">
+  <img alt="Code Refactor screenshot" src="./assets/images/Code_Refactor_screenshot.png">
+</p>assets/images/Code_Refactor_screenshot.png)
 
 ## Setup/Installation Requirements
 
